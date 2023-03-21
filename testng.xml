@@ -1,0 +1,8 @@
+
+<suite name="NopCommerce Regression Suite">
+  <test name="Regression Test">
+    <classes>
+      <class name="tests.RegestrationTest"/>
+    </classes>
+  </test> 
+</suite> 
